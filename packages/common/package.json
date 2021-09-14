@@ -10,5 +10,9 @@
     "@types/react-native": "*",
     "react": "*",
     "react-native": "*"
+  },
+  "dependencies": {
+    "@microsoft/teams-js": "^1.10.0",
+    "typescript": "4.1.2"
   }
 }
